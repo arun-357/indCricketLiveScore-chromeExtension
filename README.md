@@ -33,7 +33,7 @@ https://github.com/user-attachments/assets/4881bb3d-b3fe-41db-b237-900229458fa0
 - `manifest.json`: Extension configuration
 - `popup.html`: HTML structure and styles for the popup
 - `popup.js`: JavaScript logic for fetching and displaying scores
-- `icon16.png`, `icon48.png`, `icon128.png`: Extension icons (add your own)
+- `icon48.png`: Extension icons (add your own)
 
 ## Usage
 
