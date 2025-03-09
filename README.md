@@ -16,6 +16,7 @@ I used to keep a separate tab open to check live cricket scores, and it worked p
 - Built with the free Cricket Live Line API from RapidAPI
 
 ## Demo
+https://github.com/user-attachments/assets/4881bb3d-b3fe-41db-b237-900229458fa0
 
 ## Installation
 
