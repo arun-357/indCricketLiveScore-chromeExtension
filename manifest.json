@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "India Cricket Live Score",
+  "version": "1.0",
+  "description": "Displays live cricket scores for India matches",
+  "permissions": ["activeTab"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "48": "icon48.png"
+    }
+  },
+  "icons": {
+    "48": "icon48.png"
+  }
+}
